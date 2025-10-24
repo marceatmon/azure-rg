@@ -12,7 +12,7 @@ This tutorial outlines the creation and deployment of a Resource Group within Mi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 or 11</b> (21H2)
+- Windows 11</b> (21H2)
 
 <h2>Installation Steps</h2>
 
