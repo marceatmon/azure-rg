@@ -2,7 +2,7 @@
 <img src="https://github.com/marceatmon/azure-files/blob/main/microsoft-azure.jpg" alt="Azure logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Microsoft Azure Resource Group - Installation</h1>
 This tutorial outlines the creation of a Resource Group within Microsoft Azure.<br />
 
 
