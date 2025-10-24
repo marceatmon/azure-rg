@@ -2,8 +2,8 @@
 <img src="https://github.com/marceatmon/azure-files/blob/main/microsoft-azure.jpg" alt="Azure logo"/>
 </p>
 
-<h1>Microsoft Azure Resource Group - Installation</h1>
-This tutorial outlines the creation of a Resource Group within Microsoft Azure.<br />
+<h1>Microsoft Azure - Resource Group Installation</h1>
+This tutorial outlines the creation and deployment of a Resource Group within Microsoft Azure.<br />
 
 
 <h2>Environments and Technologies Used</h2>
